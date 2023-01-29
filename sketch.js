@@ -27,8 +27,8 @@ function setup(){
 
   //leftBoundary.invisible = false;
   // leftBoundary.visible = true;
-  leftBoundary.invisible = true;
-  // leftBoundary.visible = false;
+  //leftBoundary.invisible = true;
+  leftBoundary.visible = false;
 
 
   rightBoundary=createSprite(410,0,100,800);
